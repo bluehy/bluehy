@@ -1,8 +1,9 @@
 ## BLUEHY
 ### Hi there 👋
 
-*#webPublisher #frontEnd*
+#webPublisher #frontEnd
 
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning javascript & python react
 
 <br/>
@@ -16,9 +17,9 @@
 <br/>
 <br/>
 
-##### Github Record
+**Github Record**
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehy&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *Note:*

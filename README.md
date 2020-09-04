@@ -1,5 +1,5 @@
 ## BLUEHY
-#webPublisher #frontEnd
+**#webPublisher #frontEnd**
 
 
 - 🔭 I’m currently working on my portfolio

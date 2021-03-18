@@ -1,9 +1,9 @@
 ## BLUEHY
-**#webPublisher #frontEnd**
+**#webPublisher #frontEnd #Developer** 
 
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning javascript & react & python
+- 🌱 FOCUS javascript & react
 
 <br/>
 

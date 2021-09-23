@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my portfolio
-- 🔥 **FOCUS** javascript & react
+- 🔥 javascript & react
 
 <br/>
 
